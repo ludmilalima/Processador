@@ -1,7 +1,8 @@
 # Processador
 \
 \
-O arquivo ProcessadorFinal.qar apresenta o projeto completo.
+O arquivo ProcessadorFinal.qar apresenta o projeto completo.\
+O arquivo ProcessadorMIPSmonociclo.pdf apresenta informações adicionais sobre o projeto.
 \
 \
 O arquivo SObin.txt contém o código de máquina de um módulo de gerenciamento de processos com preempção e deve ser carregado na primeira posição da memória de instruções através do arquivo mem_instr.v.\
